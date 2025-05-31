@@ -1,2 +1,2 @@
-# parallelprj.1
+# parallel
 parallel Description
